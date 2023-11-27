@@ -1,2 +1,6 @@
+viewRejected.class
+viewOngoingRequests.class
+docFlowPath.class
 LoginTest.class
 SubmissionRequest.class
+readDocument.class
